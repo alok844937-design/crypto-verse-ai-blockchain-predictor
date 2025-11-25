@@ -7,7 +7,7 @@ AI-powered cryptocurrency price prediction app with blockchain verification. Bui
 
 
 ## 📊 Live Demo
-
+https://youtu.be/xU5WSRXrEjE?si=zb-q-oGZvZ_yQMTj
 
 ## ✨ Features
 
@@ -41,8 +41,8 @@ AI-powered cryptocurrency price prediction app with blockchain verification. Bui
 *Solution*: CryptoPulse combines AI accuracy and blockchain transparency for trustworthy, actionable predictions.
 
 
-## 📸 Screenshots
-
+## 📸 Screenshots Link 
+https://drive.google.com/file/d/1u7UisdZj6HNwBzM1eEz6h6GWMBfQbyxV/view?usp=drivesdk
 
 ## 🎯 Quick Start (Demo Instructions)
 
