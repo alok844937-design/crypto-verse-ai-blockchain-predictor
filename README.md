@@ -1,6 +1,8 @@
 # crypto-verse-ai-blockchain-predictor
 AI-powered cryptocurrency price prediction app with blockchain verification. Built for Synergix Hacks V1, India - Crypto Pulse uses LSTM neural networks and Ethereum smart contracts to deliver transparent, accurate crypto price forecasts for traders.
 
+##Project Link : https://crypto-verse-ai-b7797f5a.base44.app/portfolio
+
 # 🚀 CryptoPulse – AI-Powered Blockchain Crypto Price Predictor
 
 *CryptoPulse* is a hackathon-winning application that predicts the future price of Bitcoin using advanced machine learning (LSTM neural networks) and verifies each forecast using blockchain smart contracts. Designed for real-time trading, full transparency, and maximum trust, CryptoPulse is your AI × Web3 solution for next-generation crypto analytics.
